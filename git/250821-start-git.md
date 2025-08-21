@@ -8,7 +8,7 @@
 
 ### Shell, Vim Command
 
-1. shell command
+1. shell `command
 
 ```shell
 $ cd dev
